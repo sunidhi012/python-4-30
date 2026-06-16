@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Bob Miles",
+        "Designation": "Senior",
+        "Salary": 200000,
+        "Department": "Sales"
+    },
+    {
+        "Name": "Bill Morgan",
+        "Designation": "Intern",
+        "Salary": 10000,
+        "Department": "Marketing"
+    },
+    {
+        "Name": "Dutch Marston",
+        "Designation": "Junior",
+        "Salary": 50000,
+        "Department": "IT"
+    },
+    {
+        "Name": "John Doe",
+        "Designation": "Mid- level",
+        "Salary": 150000,
+        "Department": "BI reporting"
+    }
+]
